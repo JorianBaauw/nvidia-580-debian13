@@ -1,0 +1,5 @@
+# Never commit local rollback data or backups
+*.deb
+*.tar.gz
+packages-*.txt
+debs*/
