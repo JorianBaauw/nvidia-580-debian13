@@ -33,7 +33,7 @@ The script checks all of this and refuses to run otherwise. It sends Kepler card
 ## Usage
 
 ```bash
-git clone https://github.com/<you>/nvidia-580-debian13.git
+git clone https://github.com/JorianBaauw/nvidia-580-debian13.git
 cd nvidia-580-debian13
 sudo ./install.sh
 # reboot
